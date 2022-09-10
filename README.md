@@ -1,4 +1,4 @@
-this program print the calendar of a chosen month in a chosen year
+this program print the calendar of a chosen month in a chosen year,
 the challenge is to not using any library besides iostream
 
 enter year(1800 to 9999), month(1 to 12),
